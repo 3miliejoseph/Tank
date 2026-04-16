@@ -10,5 +10,5 @@ Hand-controlled interactive aquarium powered by computer vision.
 
 ## 🎮 Interactions
 - **Pinch** - Drop food
-- **Open Hand** - Fish follow
+- **Open Hand or Pointer Finger** - Fish follow
 - **Fist** - Scatter fish
